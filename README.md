@@ -1,10 +1,12 @@
-# Swim FlightTrack Demo
+![Demo Application Map](https://raw.githubusercontent.com/aimwts/aiTAAS-Edge/master/Taas_logo_s.jpg "Demo Application Map")
+
+# TAAS FlightTrack Demo - To be created a generic TAAS Factory Automation DEMO
 
 Java9+ is required to run the application. Gradle is also required but handled by Gradle wrapper and so will install automatically.
 
 ## Runing for Debugging and Development
 
-1. git clone https://github.com/swimit/flightinfo.git
+1. git clone https://github.com/aimwts/flightinfo.git
 2. cd flightinfo
 3. chmod -R 755 *
 4. chmod +x *.sh
@@ -33,7 +35,7 @@ Java9+ is required to run the application. Gradle is also required but handled b
 * **/templates** - collection of JSON files which define various page layouts in the UI
 * **/ui** - codebase for web based UI
 
-## Swim Application Structure
+## TAAS/Swim Application Structure
 
 ![Swim Application Structure](ui/assets/images/FlightTrackerArchitecture.png)
 
